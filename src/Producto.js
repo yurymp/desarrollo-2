@@ -7,7 +7,9 @@ export const Producto = () => {
     let descripcion = "A david y a eduard les gusta la zanahoria"
     let usuario = {
         nombreCompleto : "Fernando Clavijo",
-        edad : 40
+        edad : 40,
+        correo : "yurymp@gmail",
+        direccion: "carrera 10 N 76-98"
     }
 
 
